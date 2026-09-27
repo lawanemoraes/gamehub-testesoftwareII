@@ -37,14 +37,14 @@ Sistema web de **cadastro e login** desenvolvido como atividade prática da disc
 
 ## 📁 Estrutura do Projeto
 
-## 📁 Estrutura do Projeto
-
+```text
 GameHub/
 ├── index.html
 ├── login.html
 ├── style.css
 ├── script.js
 └── README.md
+```
 
 ---
 
